@@ -17,9 +17,9 @@ I’m a passionate **Android Developer** and **Web Developer** with a love for c
 - Cross-platform development with **Flutter**  
 - Advanced state management in **React**  
 
-💬 Let’s connect!
-- https://www.linkedin.com/in/gigih-dwi-cahyo-0a3828277/
-- https://www.facebook.com/gigih.cahyo.9
-- https://www.instagram.com/gigih_dc/
+💬 **Let’s connect!**  
+- [LinkedIn](https://www.linkedin.com/in/gigih-dwi-cahyo-0a3828277/)  
+- [Facebook](https://www.facebook.com/gigih.cahyo.9)  
+- [Instagram](https://www.instagram.com/gigih_dc/)  
 
 Feel free to reach out for collaborations or discussions on exciting projects!
